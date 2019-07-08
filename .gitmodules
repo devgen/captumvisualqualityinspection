@@ -1,0 +1,9 @@
+[submodule "sap-capgemini-qa"]
+	path = sap-capgemini-qa
+	url = git@github.com:octavdragoi/sap-capgemini-qa.git
+[submodule "quality-inspection-ba"]
+	path = quality-inspection-ba
+	url = git@github.com:octavdragoi/quality-inspection-ba.git
+[submodule "mta-ui"]
+	path = mta-ui
+	url = git@github.com:octavdragoi/mta-ui.git
