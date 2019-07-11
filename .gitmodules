@@ -7,3 +7,6 @@
 [submodule "mta-ui"]
 	path = mta-ui
 	url = git@github.com:octavdragoi/mta-ui.git
+[submodule "image-server-qa"]
+	path = image-server-qa
+	url = https://github.com/octavdragoi/image-server-qa.git
